@@ -100,12 +100,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   
-  /**
-   * Initiate glightbox
-   */
-  const glightbox = GLightbox({
-    selector: '.glightbox'
-  });
+
 
   /**
    * Init swiper slider with 1 slide at once in desktop view
