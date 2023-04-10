@@ -99,11 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
     })
   });
 
-  /**
-   * Initiate pURE cOUNTER
-   */
-  new PureCounter();
-
+  
   /**
    * Initiate glightbox
    */
